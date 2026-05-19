@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "title": "Local Search Visibility Core Entity",
+    "href": "/local-search-visibility-core-entity"
+  },
+  {
+    "title": "Local Search Visibility Signals",
+    "href": "/local-search-visibility-signals"
+  },
+  {
+    "title": "Local Search Visibility Relationships",
+    "href": "/local-search-visibility-relationships"
+  },
+  {
+    "title": "Local Search Visibility Glossary",
+    "href": "/local-search-visibility-glossary"
+  },
+  {
+    "title": "Local Search Visibility FAQ",
+    "href": "/local-search-visibility-faq"
+  },
+  {
+    "title": "Local Search Visibility Entity Checklist",
+    "href": "/local-search-visibility-entity-checklist"
+  },
+  {
+    "title": "Local Search Visibility Methodology",
+    "href": "/local-search-visibility-methodology"
+  }
+]

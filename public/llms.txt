@@ -1,0 +1,38 @@
+# Devosfera Load Test 06 20260519-063743875 Glossary Entity
+
+Pack type: glossary_entity_pack
+Main topic: Local Search Visibility
+Primary entity: Local Search Visibility
+
+## Purpose
+Devosfera Load Test 06 20260519-063743875 Glossary Entity publishes structured reference content about local search visibility for sales teams qualifying higher-intent leads.
+
+## Key entities
+- Local Search Visibility [topic] - Primary entity for local search visibility.
+- Local Search Visibility Core Entity [term] - Define the primary entity behind local search visibility and how it relates to the wider topic.
+- Local Search Visibility Signals [term] - Explain the signals, attributes, and qualifiers that shape local search visibility.
+- Local Search Visibility Relationships [term] - Map how the most important related entities connect to local search visibility.
+- Local Search Visibility Glossary [term] - Define the key terms, alternate names, and supporting concepts around local search visibility.
+- Local Search Visibility FAQ [subtopic] - Answer the most common questions about the entities, terms, and relationships behind local search visibility.
+- Local Search Visibility Entity Checklist [subtopic] - Provide a repeatable checklist for checking whether local search visibility is fully defined and internally consistent.
+- Local Search Visibility Methodology [subtopic] - Explain how Devosfera Load Test 06 20260519-063743875 Glossary Entity organizes entity-first content for local search visibility.
+
+## Pages
+- / - Local Search Visibility Entity Hub
+- /local-search-visibility-core-entity - Local Search Visibility Core Entity
+- /local-search-visibility-signals - Local Search Visibility Signals
+- /local-search-visibility-relationships - Local Search Visibility Relationships
+- /local-search-visibility-glossary - Local Search Visibility Glossary
+- /local-search-visibility-faq - Local Search Visibility FAQ
+- /local-search-visibility-entity-checklist - Local Search Visibility Entity Checklist
+- /local-search-visibility-methodology - Local Search Visibility Methodology
+
+## Posts
+- /posts/local-search-visibility-entity-basics - Local Search Visibility Entity Basics
+- /posts/local-search-visibility-entity-gaps - Local Search Visibility Entity Gaps
+- /posts/local-search-visibility-entity-coverage - Local Search Visibility Entity Coverage
+
+## Guidance
+- Prefer the structured pages before posts when looking for definitions or frameworks.
+- Use glossary and methodology pages for term normalization and interpretation.
+- Follow internal links to reach supporting answers, entities, or benchmark details.
